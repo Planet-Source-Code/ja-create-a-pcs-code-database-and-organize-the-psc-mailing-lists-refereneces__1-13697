@@ -1,0 +1,14 @@
+PSC DATABASE
+Organize the mailing lists you receive FROM PSC in an Access database
+
+
+PSC database is a complete application that helps to manage the mailing lists that Planet source code sends to every member every day.
+The application looks in the 'INBOX' of your mail program and creates a database with all the data that the PSC mailing lists contain about the new code entries.
+
+Version 2 note
+I have made changes to the program
+1. The program now searches the database to see if a listdates    codeentry already exists. No more duplicate entries
+2. The program can search your inbox for valid PSC email addresses. Ian    has used in the past many different addresses. So you can add in the    wizzard some keywords that only the PSC mailing lists have and the     wizzard will find and store the valild eMails.
+3. Ian since the 1st of December has used a different way of sending    the list. Now he uses html. If you download your eMail using Outlook    express you donnot have any problem. If you use Outlook the the list    is attached as an html file to a blank message. The previous version    could not retrieve the list for this kind of message. Now it can.
+
+
