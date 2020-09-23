@@ -1,0 +1,6 @@
+Display the Printer Properties Dialog Box, in 3 lines
+
+
+This sample code shows the way to show the printer properties window, That is the dialog box to set the optios of a printer, using API and not the VB Common Dialog.
+Very Fast and easy to use
+Uses the OpenPrinter,PrinterProperties and ClosePrinter API functions
